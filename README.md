@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://ricardorato.dev/static/cv/Ricardo-Rato-most%20recent.pdf](https://ricardorato.dev/static/cv/Ricardo-Rato-most%20recent.pdf)
 
-- ⚡About me **Powerlifter and calisthenics adept**
+- ⚡About me: **Powerlifter and calisthenics adept, love food, beach and sun!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
