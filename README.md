@@ -11,7 +11,7 @@
 
 - 📫 Contact me at **ricardo.jorge.rato@gmail.com**
 
-- 📄 Know about my experiences [https://ricardorato.dev/static/cv/Ricardo-Rato-most%20recent.pdf](https://ricardorato.dev/static/cv/Ricardo-Rato-most%20recent.pdf)
+- 📄 Know about my experiences [here!](https://drive.google.com/file/d/1rW8QB8PEJ4qxrZ7MgiKtKQ-g_WRzWuo9/view)
 
 - ⚡About me: **Powerlifter and calisthenics adept, love food, beach and sun!!**
 
