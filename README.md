@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjrato&label=Profile%20views&color=0e75b6&style=flat" alt="rjrato" /> </p>
 
-- 🔭 I’m currently working on my [Write-It](https://github.com/rjrato/Write-It-V2) app
-
 - 🌱 I’m currently learning **Python and AWS**
 
 - 👨‍💻 See my portfolio at [ricardorato.dev](https://www.ricardorato.dev)
